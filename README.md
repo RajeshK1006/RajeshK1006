@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rajesh -Data Enthusiast
 - 👀 I’m interested in Problem solving and Machine Learning
-- 🌱 I’m currently learning Data sciecne and DSA
+- 🌱 I’m currently learning Data sciene and DSA
 - 📫 How to reach me email - rajesh.kofficialmail@gmail.com
 - 😄 Pronouns: he/him
 
