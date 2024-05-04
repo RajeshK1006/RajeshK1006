@@ -2,6 +2,7 @@
 - 👀 I’m interested in Problem solving and Machine Learning
 - 🌱 I’m currently learning Data sciene and DSA
 - 📫 How to reach me email - rajesh.kofficialmail@gmail.com
+- 😉 connect with me in CodingNinjas - https://www.naukri.com/code360/profile/rajeshk_10
 - 😄 Pronouns: he/him
 
 <!---
