@@ -10,6 +10,11 @@
 
 <h5 align="center">I'm  Rajesh - Data Science Grad Thriving in the world of Software Engineering</h5>
 
+
+###
+
+<h5 align="center">Connect with me through....</h5>
+
 ###
 
 <br clear="both">
@@ -24,6 +29,11 @@
 ###
 
 <br clear="both">
+###
+
+<h4 align="center">My Tech Stacks</h4>
+
+###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
