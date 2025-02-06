@@ -29,7 +29,7 @@
 ###
 
 <br clear="both">
-###
+
 
 <h4 align="center">My Tech Stacks</h4>
 
